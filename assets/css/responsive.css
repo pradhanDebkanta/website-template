@@ -61,4 +61,11 @@
     .top-navbar .navbar-light .navbar-toggler {
         border-radius: 5px;
     }
+    
+    .navbar-social-icon-container {
+    margin: 0 2rem 0 2rem;
+    }
+    .nav-social-item-box {
+    margin-right: 2rem;
+    }
 }
