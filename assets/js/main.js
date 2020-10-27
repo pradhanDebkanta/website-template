@@ -81,7 +81,7 @@
     });
     
     // prevent cut copy pest
-    /*
+    
     $(document).ready(function(){
         $('body').bind('cut copy paste', function(e){
             e.preventDefault();
@@ -90,6 +90,6 @@
             return false;
         });
     });
-*/
+
 
 })(jQuery);
