@@ -245,7 +245,7 @@ header {
 
 .top-navbar .bg-light {
     margin: 0;
-    box-shadow: 0 0 10px 0 #2f2519;
+/*     box-shadow: 0 0 10px 0 #2f2519; */
     width: 100%;
     z-index: 9999;
     visibility: visible;
