@@ -76,7 +76,7 @@
     $(window).on('load', function () {
         AOS.init({
             delay: 200,
-            once: false
+            once: true
         });
     });
     
